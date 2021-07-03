@@ -1,5 +1,5 @@
 # www.robotstxt.org/
-# Git Loving it, Clone Repo , Feature Branch
+# Git Loving it, Clone Repo , New Feature Branch
 # Allow crawling of all content
 User-agent: *
 Disallow:
