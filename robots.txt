@@ -1,5 +1,5 @@
 # www.robotstxt.org/
-# Git Loving it
+# Git Loving it, Clone Repo
 # Allow crawling of all content
 User-agent: *
 Disallow:
